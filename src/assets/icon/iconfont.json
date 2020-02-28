@@ -1,0 +1,275 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "577324",
+      "name": "圆形选中",
+      "font_class": "yuanxingxuanzhong",
+      "unicode": "e731",
+      "unicode_decimal": 59185
+    },
+    {
+      "icon_id": "1111363",
+      "name": "对",
+      "font_class": "dui",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "3868282",
+      "name": "应用管理",
+      "font_class": "yingyongguanli",
+      "unicode": "eb67",
+      "unicode_decimal": 60263
+    },
+    {
+      "icon_id": "4583613",
+      "name": "空心对勾",
+      "font_class": "kongxinduigou",
+      "unicode": "ebe5",
+      "unicode_decimal": 60389
+    },
+    {
+      "icon_id": "5961323",
+      "name": "运行",
+      "font_class": "yunhang",
+      "unicode": "ec61",
+      "unicode_decimal": 60513
+    },
+    {
+      "icon_id": "6639641",
+      "name": "停止",
+      "font_class": "tingzhi",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "7939959",
+      "name": "播放",
+      "font_class": "arrow-",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "7947379",
+      "name": "空心问号",
+      "font_class": "kongxinwenhao",
+      "unicode": "ed19",
+      "unicode_decimal": 60697
+    },
+    {
+      "icon_id": "7947748",
+      "name": "错误空心",
+      "font_class": "cuowukongxin",
+      "unicode": "ed1a",
+      "unicode_decimal": 60698
+    },
+    {
+      "icon_id": "7947752",
+      "name": "空心对勾",
+      "font_class": "kongxinduigou1",
+      "unicode": "ed1b",
+      "unicode_decimal": 60699
+    },
+    {
+      "icon_id": "7947753",
+      "name": "信息空心",
+      "font_class": "xinxikongxin",
+      "unicode": "ed1c",
+      "unicode_decimal": 60700
+    },
+    {
+      "icon_id": "7947755",
+      "name": "告警空心",
+      "font_class": "gaojingkongxin",
+      "unicode": "ed1d",
+      "unicode_decimal": 60701
+    },
+    {
+      "icon_id": "12149785",
+      "name": "WMS",
+      "font_class": "WMS",
+      "unicode": "e57b",
+      "unicode_decimal": 58747
+    },
+    {
+      "icon_id": "12149786",
+      "name": "合并签核",
+      "font_class": "hebingqianhe",
+      "unicode": "e57c",
+      "unicode_decimal": 58748
+    },
+    {
+      "icon_id": "12149787",
+      "name": "PPO",
+      "font_class": "PPO",
+      "unicode": "e57d",
+      "unicode_decimal": 58749
+    },
+    {
+      "icon_id": "12149788",
+      "name": "待处理任务",
+      "font_class": "daichulirenwu",
+      "unicode": "e57e",
+      "unicode_decimal": 58750
+    },
+    {
+      "icon_id": "12149789",
+      "name": "报表统计",
+      "font_class": "baobiaotongji",
+      "unicode": "e57f",
+      "unicode_decimal": 58751
+    },
+    {
+      "icon_id": "12149790",
+      "name": "供应链管理",
+      "font_class": "gongyinglianguanli",
+      "unicode": "e580",
+      "unicode_decimal": 58752
+    },
+    {
+      "icon_id": "12149791",
+      "name": "开发管理",
+      "font_class": "kaifaguanli",
+      "unicode": "e581",
+      "unicode_decimal": 58753
+    },
+    {
+      "icon_id": "12149792",
+      "name": "个人设置",
+      "font_class": "gerenshezhi",
+      "unicode": "e582",
+      "unicode_decimal": 58754
+    },
+    {
+      "icon_id": "12149793",
+      "name": "WMS管理",
+      "font_class": "WMSguanli",
+      "unicode": "e583",
+      "unicode_decimal": 58755
+    },
+    {
+      "icon_id": "12149794",
+      "name": "计件报工管理",
+      "font_class": "jijianbaogongguanli",
+      "unicode": "e584",
+      "unicode_decimal": 58756
+    },
+    {
+      "icon_id": "12149795",
+      "name": "数据分析",
+      "font_class": "shujufenxi",
+      "unicode": "e585",
+      "unicode_decimal": 58757
+    },
+    {
+      "icon_id": "12149796",
+      "name": "我的任务",
+      "font_class": "woderenwu",
+      "unicode": "e586",
+      "unicode_decimal": 58758
+    },
+    {
+      "icon_id": "12149797",
+      "name": "填写表单",
+      "font_class": "tianxiebiaodan",
+      "unicode": "e587",
+      "unicode_decimal": 58759
+    },
+    {
+      "icon_id": "12149798",
+      "name": "项目管理",
+      "font_class": "xiangmuguanli",
+      "unicode": "e588",
+      "unicode_decimal": 58760
+    },
+    {
+      "icon_id": "12149799",
+      "name": "我的邮箱",
+      "font_class": "wodeyouxiang",
+      "unicode": "e589",
+      "unicode_decimal": 58761
+    },
+    {
+      "icon_id": "12149800",
+      "name": "文档管理",
+      "font_class": "wendangguanli",
+      "unicode": "e58a",
+      "unicode_decimal": 58762
+    },
+    {
+      "icon_id": "12149801",
+      "name": "新项目管理",
+      "font_class": "xinxiangmuguanli",
+      "unicode": "e58b",
+      "unicode_decimal": 58763
+    },
+    {
+      "icon_id": "12149802",
+      "name": "任务查询",
+      "font_class": "renwuchaxun",
+      "unicode": "e58c",
+      "unicode_decimal": 58764
+    },
+    {
+      "icon_id": "12149803",
+      "name": "综合分析",
+      "font_class": "zonghefenxi",
+      "unicode": "e58d",
+      "unicode_decimal": 58765
+    },
+    {
+      "icon_id": "12149804",
+      "name": "系统维护",
+      "font_class": "xitongweihu",
+      "unicode": "e58e",
+      "unicode_decimal": 58766
+    },
+    {
+      "icon_id": "12149805",
+      "name": "邮箱配置",
+      "font_class": "youxiangpeizhi",
+      "unicode": "e58f",
+      "unicode_decimal": 58767
+    },
+    {
+      "icon_id": "12149806",
+      "name": "华为po接口",
+      "font_class": "huaweipojiekou",
+      "unicode": "e590",
+      "unicode_decimal": 58768
+    },
+    {
+      "icon_id": "12149807",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e591",
+      "unicode_decimal": 58769
+    },
+    {
+      "icon_id": "12149808",
+      "name": "小叶测试",
+      "font_class": "xiaoyeceshi",
+      "unicode": "e592",
+      "unicode_decimal": 58770
+    },
+    {
+      "icon_id": "12149809",
+      "name": "三洋bom",
+      "font_class": "sanyangbom",
+      "unicode": "e593",
+      "unicode_decimal": 58771
+    },
+    {
+      "icon_id": "12149810",
+      "name": "主界面连接",
+      "font_class": "zhujiemianlianjie",
+      "unicode": "e594",
+      "unicode_decimal": 58772
+    }
+  ]
+}
