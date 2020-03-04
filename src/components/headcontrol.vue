@@ -56,7 +56,8 @@
       >
         <slot slot="left" name="left">
           <span style="color:white;">
-            <van-icon name="arrow-left" color="white" />返回
+            <van-icon name="arrow-left" color="white" />
+返回
           </span>
         </slot>
         <slot slot="title" name="title"></slot>
@@ -67,15 +68,15 @@
         style="background-color: #2c3e50;"
         left-arrow
         v-if="this.$store.state.GetdeviceSn==4"
-         @click-left="onClickLeft"
+        @click-left="onClickLeft"
       >
         <slot slot="left" name="left">
           <span style="color:white;">
-            <van-icon name="arrow-left"  color="white" />返回
+            <van-icon name="arrow-left" color="white" />返回
           </span>
         </slot>
         <slot slot="title" name="title">
-           <span style="color:white;">海目星 APP</span>
+          <span style="color:white;">海目星 APP</span>
         </slot>
         <slot slot="right" name="right"></slot>
       </van-nav-bar>

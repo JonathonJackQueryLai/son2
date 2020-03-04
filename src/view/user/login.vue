@@ -226,18 +226,23 @@ export default {
       if (query !== "") {
         //window.console.log(url)
         this.axios.get(url).then(result => {
-           window.console.log(result)
-          if(result==null) {return;}
+          window.console.log(result);
+          if (result == null) {
+            return;
+          }
           this.states = [];
           for (let i = 0; i < result.data.result.items.length; i++) {
-            this.states.push({ value:result.data.result.items[i].tenancyName,label:result.data.result.items[i].name});
+            this.states.push({
+              value: result.data.result.items[i].tenancyName,
+              label: result.data.result.items[i].name
+            });
           }
-         
+
           this.list = [];
           this.list = this.states.map(item => {
             return { value: `${item.value}`, label: `${item.label}` };
           });
-           window.console.log(this.list)
+          window.console.log(this.list);
           this.loading = true;
           setTimeout(() => {
             this.loading = false;
@@ -265,7 +270,6 @@ export default {
         })
         // eslint-disable-next-line no-unused-vars
         .catch(error => {
-         
           setTimeout(() => {
             this.$store.state.tenantId = "";
             if (this.count < 5) {
@@ -322,14 +326,17 @@ export default {
 .van-image {
   width: 100%;
 }
+
 .el-select {
   width: 100%;
   margin-top: 10px;
 }
+
 .el-input {
   width: 100%;
   margin-top: 10px;
 }
+
 .van-button {
   text-align: center;
   margin-left: 35%;
@@ -339,6 +346,7 @@ export default {
   margin-top: 10px;
   margin-left: 10px;
 }
+
 .login_top {
   margin-top: 100px;
 }
