@@ -1,6 +1,5 @@
 <template>
   <div>
-    
     <iframe class="iframecontnent"  src="http://www.hymson-laser.com/Wap/list_139.aspx?lcid=2"></iframe>
   </div>
 </template>
